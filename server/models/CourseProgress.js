@@ -1,4 +1,4 @@
-ASDFGHSDFGHJSDFGH
+FGHSDFGHJSDFGH
 const mongoose = require("mongoose")
 
 const courseProgress = new mongoose.Schema({
